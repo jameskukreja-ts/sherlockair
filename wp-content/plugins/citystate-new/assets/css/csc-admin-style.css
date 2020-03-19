@@ -1,0 +1,19 @@
+.csc-form{clear:both;margin-top:10px}
+.csc-row{background:#fff none repeat scroll 0 0;border:1px solid #e5e5e5;box-shadow:0 1px 1px rgba(0,0,0,0.04);box-sizing:border-box;padding:20px}
+.csc-page-section{display:inline-block;vertical-align:top;width:30%}
+.csc-citystate-section{display:inline-block;vertical-align:top;width:66%}
+.csc-row .postbox{border:1px solid #e5e5e5;min-width:255px;padding:15px;position:relative}
+.btn-sec{text-align:right;float:right}
+.Delete{float:left;margin-right:10px}
+.Save{float:left}
+.add-block{marign-top:20px}
+.btn-sec .csc-spinner{float:left}
+.csc-links{color:#666;font-size:13px;list-style:outside none none;margin:8px 0 5px;padding-bottom:10px}
+.csc-links li{display:inline-block;margin:0;padding:0;white-space:nowrap}
+.csc-empty{margin-bottom:20px}
+.csc-links a.current{color:#000;border:medium none;font-weight:600}
+.csc-links a{line-height:2;padding:.2em;text-decoration:none}
+.last_tr{margin-top:10px}
+.csc-row .pagelistall select{width:94%}
+.csc-spinner{background:rgba(0,0,0,0) url(../images/spinner.gif) no-repeat scroll 0 0 / 20px 20px;display:none;height:20px;margin:2px 5px 0;opacity:.7;width:20px}
+.csc-spin{background:rgba(0,0,0,0) url(../images/spinner.gif) no-repeat scroll 0 0 / 20px 20px;display:none;float:left;height:20px;margin:2px 5px 0;opacity:.7;width:20px}

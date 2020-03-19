@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Test JS</title>
+</head>
+
+<body>
+<script>
+var rrp_settings = {
+    "url": "http://localhost:8000",
+    "key": "624972768531992",
+};
+</script>
+
+<script>
+var rrp_settings = {
+    "url": "https://dev-reports.bluecorona.com",
+    "key": "452572583572452",
+};
+</script>
+
+  <script src="jquery-3.3.1.min.js"></script>
+  <script src="dist/bundle.min.js" async></script>
+  <script>
+  console.log($);
+  console.log(jQuery);
+  console.log("We are here");
+  </script>
+  <a href="https://google.com" rel="noopener noreferrer" onclick='rrpCapture({ disposition: "test", type: "test", subject: "test", })'>Test capture</a>
+</body>
+</html>
